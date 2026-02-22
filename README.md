@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>@ifckr</h1>
+<p><a href=https://ifckr.com rel=me>ifckr.com</a>
+<a href=https://www.pinterest.com/ifckr rel=me>pinterest</a>
+<a href=https://www.instagram.com/ifckr rel=me>instagram</a>
+<a href=https://www.reddit.com/user/ifckr rel=me>reddit</a>
+<a href=https://x.com/ifckr rel=me>x.com</a></p>
 
-<!--
-**ifckr/ifckr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>@ifckr8</h2>
+<p><a href=https://8.ifckr.com rel=me>8.ifckr.com</a>
+<a href=https://www.pinterest.com/ifckr8 rel=me>pinterest</a>
+<a href=https://www.instagram.com/ifckr8 rel=me>instagram</a>
+<a href=https://www.reddit.com/user/ifckr8 rel=me>reddit</a>
+<a href=https://x.com/ifckr8 rel=me>x.com</a></p>
