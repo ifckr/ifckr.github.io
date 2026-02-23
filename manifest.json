@@ -9,11 +9,11 @@
 	"theme_color":"#333",
 	"background_color":"#CCC",
 	"icons":[{
-		"src":"ifckr.450.gif",
+		"src":"/images/ifckr.450.gif",
 		"type":"image/gif",
 		"sizes":"450x450"
 	},{
-		"src":"/ifckr.1080.gif",
+		"src":"/images/ifckr.1080.gif",
 		"type":"image/gif",
 		"sizes":"1080x1080"
 	}]
